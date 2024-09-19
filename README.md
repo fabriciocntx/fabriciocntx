@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 🔭 I’m currently working on Sathus Design & Technologies (personal project);<br>🌱 I’m currently learning Python, C++, HTML5, CSS and Javascript;<br>👯 I’m looking to collaborate on web projects;<br>💬 Ask me about design;<br>📫 How to reach me: fabriciocantuario@hotmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: I didn't finish Star Wars 
 
 
